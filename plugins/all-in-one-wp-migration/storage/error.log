@@ -1,0 +1,6 @@
+Jul 30 2020 19:07:43
+{"Number":2,"Message":"rmdir(C:\\xampp\\htdocs\\word2\\wordpress\\wp-content\\plugins\\all-in-one-wp-migration\\storage\\neo1xmn31xgz): Directory not empty","File":"C:\\xampp\\htdocs\\word2\\wordpress\\wp-content\\plugins\\all-in-one-wp-migration\\lib\\vendor\\servmask\\filesystem\\class-ai1wm-directory.php","Line":72}
+
+Jul 30 2020 19:07:46
+{"Number":2,"Message":"filesize(): stat failed for C:\\xampp\\htdocs\\word2\\wordpress\\wp-content\\plugins\\all-in-one-wp-migration\\storage\\neo1xmn31xgz\\localhost-word2-wordpress-20200730-190732-x09hgr.wpress","File":"C:\\xampp\\htdocs\\word2\\wordpress\\wp-content\\plugins\\all-in-one-wp-migration\\lib\\vendor\\servmask\\archiver\\class-ai1wm-archiver.php","Line":231}
+
